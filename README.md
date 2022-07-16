@@ -7,9 +7,7 @@
 <img align="left" alt-"coding" width:"400' src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj1509-behera&show_icons=true&locale=en&layout=compact" alt="manoj1509-behera" /></p>
 
 
-- 🔭 I’m currently working on **Village Issue**
-
-- 🌱 I’m currently learning **Node js,react,express**
+- 🌱 I’m currently learning **Node js,express**
 
 - 💬 Ask me about **web devlopment , java**
 
