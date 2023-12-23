@@ -37,7 +37,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MANOJ1509-behera&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MANOJ1509-behera)  
+![GitHub Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/)  
 
 
 
