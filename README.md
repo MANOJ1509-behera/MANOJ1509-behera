@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Manoj Kumar Behera</h1>
-<h3 align="center">An enthusiastic web developer with a genuine passion for coding. </h3>
+<h3 align="center">An enthusiastic web developer with a genuine passion for coding 😍</h3>
 <!-- <img align="left" alt-"coding" width:"400' src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj1509-behera&show_icons=true&locale=en&layout=compact" alt="manoj1509-behera" /></p>
  -->
 
