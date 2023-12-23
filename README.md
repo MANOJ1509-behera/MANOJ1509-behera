@@ -2,12 +2,12 @@
 ![MasterHead](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 
-<h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Manoj Kumar Behera</h1>
+<h3 align="center">An enthusiastic web developer with a genuine passion for coding. </h3>
 <!-- <img align="left" alt-"coding" width:"400' src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj1509-behera&show_icons=true&locale=en&layout=compact" alt="manoj1509-behera" /></p>
  -->
 
-- 🌱 I’m currently learning **Node js,express**
+- 🌱 I’m currently learning **Core Java,Jdbc,Servlet,Jsp,Spring,Spring Boot,Hibernate,SQL,Node js,express,mongoDB**
 
 - 💬 Ask me about **web devlopment , java**
 
