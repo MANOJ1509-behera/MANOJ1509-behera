@@ -98,6 +98,14 @@
   <a href="https://github.com/MANOJ1509-behera">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/manoj-kumar-behera-62b3772ab/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:manojbehera1509@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
 </p>
 
 ---
