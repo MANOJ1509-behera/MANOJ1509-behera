@@ -3,10 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DevOps%20Engineer&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- DevOps Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Cloud%20Infrastructure%20%7C%20CI/CD%20%7C%20Containers%20%7C%20IaC&width=900&height=200" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gitlab,linux,prometheus,grafana&perline=8" />
 </p>
+
+<p align="c
 
 <h2 align="center">🚀 DevOps Engineer | 2+ Years Experience at Tech Mahindra</h2>
 
