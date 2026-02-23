@@ -1,9 +1,12 @@
-<!-- ======================= Animated Typing Header ======================= -->
+<!-- ======================= Animated Typing Header ======================= --><!-- ================= DevOps Themed Typing Header ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Manoj+Kumar+Behera;DevOps+Engineer+%7C+2%2B+Years+Experience;Cloud+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Linux+%7C+Monitoring;Automating+Infrastructure+⚙️" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Manoj+Kumar+Behera;DevOps+Engineer+%7C+2%2B+Years+Experience;Designing+CI%2FCD+Pipelines;Provisioning+Infrastructure+with+Terraform;Deploying+Containers+on+Kubernetes;Monitoring+with+Prometheus+%26+Grafana" />
 </p>
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+<!-- DevOps Banner -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Cloud%20Infrastructure%20%7C%20CI/CD%20%7C%20Containers%20%7C%20IaC&width=900&height=200" />
+</p>
 
 <h2 align="center">🚀 DevOps Engineer | 2+ Years Experience at Tech Mahindra</h2>
 
