@@ -1,11 +1,8 @@
 <!-- ======================= Animated Typing Header ======================= --><!-- ================= DevOps Themed Typing Header ================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gitlab,linux,prometheus,grafana&perline=8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DevOps%20Engineer&fontSize=40&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Tech+Mahindra;2%2B+Years+Experience;Automating+Cloud+Infrastructure;Building+Reliable+CI%2FCD+Pipelines" />
-</p>
 <!-- DevOps Banner -->
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Cloud%20Infrastructure%20%7C%20CI/CD%20%7C%20Containers%20%7C%20IaC&width=900&height=200" />
