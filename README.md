@@ -6,6 +6,12 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 
 <h2 align="center">🚀 DevOps Engineer | 2+ Years Experience</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-DevOps%20Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Automation-orange?style=for-the-badge"/>
+</p>
+
 
 ---
 
