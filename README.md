@@ -5,6 +5,11 @@
   <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Cloud%20Infrastructure%20%7C%20CI/CD%20%7C%20Containers%20%7C%20IaC&width=900&height=200" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Manoj+Kumar+Behera;DevOps+Engineer+%7C+2%2B+Years+Experience;Designing+CI%2FCD+Pipelines;Provisioning+Infrastructure+with+Terraform;Deploying+Containers+on+Kubernetes;Monitoring+with+Prometheus+%26+Grafana" />
+</p>
+
+
 <p align="c
 
 <h2 align="center">🚀 DevOps Engineer | 2+ Years Experience at Tech Mahindra</h2>
