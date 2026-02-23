@@ -1,88 +1,117 @@
-![MasterHead](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+<!-- ==================== Animated DevOps Typing Header ==================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Manoj+Kumar+Behera;DevOps+Engineer+🚀;Cloud+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+Monitoring;Automating+Everything+⚙️" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Manoj Kumar Behera</h1>
-<h3 align="center">🚀 DevOps Engineer | Former Web Developer | Cloud & Automation Enthusiast</h3>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+
+<h2 align="center">🚀 DevOps Engineer | Cloud & IaC Specialist | Automation Enthusiast</h2>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🔭 Currently working as a **DevOps Engineer**
-- 🌱 Exploring **Cloud Computing, CI/CD, Docker, Kubernetes & Automation**
-- 💬 Ask me about **DevOps, Java, Backend Development**
-- 📫 Reach me at **manojbehera1509@gmail.com**
-- ⚡ Fun fact: I love automating things more than doing them manually 😄
+- ☁️ Passionate about **Cloud Infrastructure & Automation**
+- 🏗️ Building infrastructure using **Terraform (IaC)**
+- 🔁 Designing & managing **CI/CD pipelines**
+- 🐳 Deploying scalable applications using containers
+- 📊 Monitoring systems for performance & reliability
+- 🐧 Strong hands-on experience with Linux
+- 📫 Reach me at: **manojbehera1509@gmail.com**
+- ⚡ *If it’s repeatable — automate it.*
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/MANOJ1509-behera" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="40" width="40"/>
-</a>
-<a href="https://www.leetcode.com/kumarmanojod010215" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/kumarmanojod010215" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40"/>
-</a>
-</p>
+# 🛠️ DevOps Tech Stack
 
 ---
 
-# 🛠️ Tech Stack
+## ☁️ Cloud
 
-## 🚀 DevOps & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,githubactions,jenkins" />
-</p>
-
-## 💻 Backend
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
-
-## 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,javascript" />
-</p>
-
-## 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🏗️ Infrastructure as Code (IaC)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MANOJ1509-behera&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOJ1509-behera&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOJ1509-behera&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=terraform" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🐳 Containerization & Orchestration
 
 <p align="center">
-<img src="https://ashutosh00710.github.io/github-readme-activity-graph/?username=MANOJ1509-behera&theme=tokyo-night" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🔁 CI/CD & Version Control
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=gitlab,githubactions,jenkins,git" />
+</p>
+
+---
+
+## 🐧 Linux & Shell Scripting
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+---
+
+## 📊 Monitoring & Observability
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+---
+
+# 📈 GitHub DevOps Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MANOJ1509-behera&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOJ1509-behera&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/?username=MANOJ1509-behera&theme=tokyo-night" />
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MANOJ1509-behera">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  <a href="https://www.leetcode.com/kumarmanojod010215">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/kumarmanojod010215">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" height="50"/>
+  </a>
 </p>
 
 ---
@@ -90,17 +119,11 @@
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://gpvc.arturio.dev/MANOJ1509-behera" />
+  <img src="https://komarev.com/ghpvc/?username=MANOJ1509-behera&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## ✨ Professional Summary
-
-Passionate DevOps Engineer with a background in web development.  
-Experienced in building scalable backend systems and automating infrastructure using modern DevOps tools.  
-Always eager to learn new technologies and improve system reliability, performance, and deployment workflows.
+<h3 align="center">🔥 Automate • Provision • Deploy • Monitor • Scale 🔥</h3>
 
 ---
-
-⭐ From [MANOJ1509-behera](https://github.com/MANOJ1509-behera)
