@@ -1,75 +1,91 @@
-<!-- ==================== Animated Header ==================== -->
+<!-- ======================= Animated Typing Header ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Manoj+Kumar+Behera;DevOps+Engineer+with+2%2B+Years+Experience;Cloud+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+Monitoring" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Manoj+Kumar+Behera;DevOps+Engineer+%7C+2%2B+Years+Experience;Cloud+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Linux+%7C+Monitoring;Automating+Infrastructure+⚙️" />
 </p>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 
-<h2 align="center">🚀 DevOps Engineer | 2+ Years Experience</h2>
+<h2 align="center">🚀 DevOps Engineer | 2+ Years Experience at Tech Mahindra</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-DevOps%20Engineer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Automation-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 💼 DevOps Engineer with **2+ years of experience at Tech Mahindra**
-- ☁️ Working on Cloud infrastructure and deployment automation
-- 🏗️ Managing Infrastructure using **Terraform (IaC)**
-- 🔁 Building & maintaining CI/CD pipelines
-- 🐳 Containerizing applications using Docker & Kubernetes
-- 📊 Monitoring systems using Prometheus & Grafana
-- 🐧 Strong hands-on experience with Linux & Shell scripting
-- 📫 Contact: **manojbehera1509@gmail.com**
-- ⚡ Belief: *Automation improves reliability and scalability.*
+- ☁️ Working on cloud infrastructure and automation
+- 🏗️ Managing infrastructure using **Terraform (IaC)**
+- 🔁 Building and maintaining CI/CD pipelines
+- 🐳 Containerizing & orchestrating applications
+- 📊 Monitoring systems for reliability and performance
+- 🐧 Strong Linux & Shell scripting background
+- 📫 Email: **manojbehera1509@gmail.com**
+- ⚡ *If it can be automated, it should be automated.*
 
 ---
 
-# 🛠️ DevOps Tech Stack
+# 🛠️ DevOps Tech Stack (Click to Expand)
 
----
-
-## ☁️ Cloud
+<details>
+<summary>☁️ Cloud</summary>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
+</details>
 
----
-
-## 🏗️ Infrastructure as Code
+<details>
+<summary>🏗️ Infrastructure as Code</summary>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=terraform" />
 </p>
+</details>
 
----
-
-## 🐳 Containerization & Orchestration
+<details>
+<summary>🐳 Containerization & Orchestration</summary>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
+</details>
 
----
-
-## 🔁 CI/CD & Version Control
+<details>
+<summary>🔁 CI/CD & Version Control</summary>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gitlab,githubactions,jenkins,git" />
 </p>
+</details>
 
----
-
-## 🐧 Linux & Scripting
+<details>
+<summary>🐧 Linux & Shell Scripting</summary>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
+</details>
 
----
-
-## 📊 Monitoring & Observability
+<details>
+<summary>📊 Monitoring & Observability</summary>
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
+</details>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MANOJ1509-behera&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MANOJ1509-behera&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -82,6 +98,14 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 💡 DevOps Quote (Auto Refreshing)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -99,7 +123,7 @@
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MANOJ1509-behera&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=MANOJ1509-behera&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
