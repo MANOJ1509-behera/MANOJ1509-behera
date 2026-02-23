@@ -1,25 +1,25 @@
-<!-- ==================== Animated DevOps Typing Header ==================== -->
+<!-- ==================== Animated Header ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Manoj+Kumar+Behera;DevOps+Engineer+🚀;Cloud+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+Monitoring;Automating+Everything+⚙️" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Manoj+Kumar+Behera;DevOps+Engineer+with+2%2B+Years+Experience;Cloud+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+Monitoring" />
 </p>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
 
-<h2 align="center">🚀 DevOps Engineer | Cloud & IaC Specialist | Automation Enthusiast</h2>
+<h2 align="center">🚀 DevOps Engineer | 2+ Years Experience</h2>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a **DevOps Engineer**
-- ☁️ Passionate about **Cloud Infrastructure & Automation**
-- 🏗️ Building infrastructure using **Terraform (IaC)**
-- 🔁 Designing & managing **CI/CD pipelines**
-- 🐳 Deploying scalable applications using containers
-- 📊 Monitoring systems for performance & reliability
-- 🐧 Strong hands-on experience with Linux
-- 📫 Reach me at: **manojbehera1509@gmail.com**
-- ⚡ *If it’s repeatable — automate it.*
+- 💼 DevOps Engineer with **2+ years of experience at Tech Mahindra**
+- ☁️ Working on Cloud infrastructure and deployment automation
+- 🏗️ Managing Infrastructure using **Terraform (IaC)**
+- 🔁 Building & maintaining CI/CD pipelines
+- 🐳 Containerizing applications using Docker & Kubernetes
+- 📊 Monitoring systems using Prometheus & Grafana
+- 🐧 Strong hands-on experience with Linux & Shell scripting
+- 📫 Contact: **manojbehera1509@gmail.com**
+- ⚡ Belief: *Automation improves reliability and scalability.*
 
 ---
 
@@ -28,15 +28,13 @@
 ---
 
 ## ☁️ Cloud
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ---
 
-## 🏗️ Infrastructure as Code (IaC)
-
+## 🏗️ Infrastructure as Code
 <p align="center">
   <img src="https://skillicons.dev/icons?i=terraform" />
 </p>
@@ -44,7 +42,6 @@
 ---
 
 ## 🐳 Containerization & Orchestration
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
@@ -52,15 +49,13 @@
 ---
 
 ## 🔁 CI/CD & Version Control
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gitlab,githubactions,jenkins,git" />
 </p>
 
 ---
 
-## 🐧 Linux & Shell Scripting
-
+## 🐧 Linux & Scripting
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
@@ -68,14 +63,13 @@
 ---
 
 ## 📊 Monitoring & Observability
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
 ---
 
-# 📈 GitHub DevOps Activity
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MANOJ1509-behera&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -84,15 +78,7 @@
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/?username=MANOJ1509-behera&theme=tokyo-night" />
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -106,12 +92,6 @@
   <a href="https://github.com/MANOJ1509-behera">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
-  <a href="https://www.leetcode.com/kumarmanojod010215">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/kumarmanojod010215">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" height="50"/>
-  </a>
 </p>
 
 ---
@@ -124,6 +104,6 @@
 
 ---
 
-<h3 align="center">🔥 Automate • Provision • Deploy • Monitor • Scale 🔥</h3>
+<h3 align="center">🚀 Automate • Deploy • Monitor • Improve</h3>
 
 ---
