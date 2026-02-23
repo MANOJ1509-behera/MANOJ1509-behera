@@ -1,6 +1,17 @@
 <!-- ==================== Animated Header ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Manoj+Kumar+Behera;DevOps+Engineer+with+2%2B+Years+Experience;Cloud+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+Monitoring" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Manoj+Kumar+Behera;DevOps+Engineer+%7C+2%2B+Years+Experience;Designing+CI%2FCD+Pipelines;Provisioning+Infrastructure+with+Terraform;Deploying+Containers+on+Kubernetes;Monitoring+with+Prometheus+%26+Grafana" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DevOps%20Engineer&fontSize=40&fontColor=ffffff" />
+</p>
+<!-- DevOps Banner -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gitlab,linux,prometheus,grafana&perline=8" />
+</p>
+font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Manoj+Kumar+Behera;DevOps+Engineer+with+2%2B+Years+Experience;Cloud+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Linux+%7C+Monitoring" />
 </p>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
