@@ -1,5 +1,7 @@
 <!-- ======================= Animated Typing Header ======================= --><!-- ================= DevOps Themed Typing Header ================= -->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DevOps%20Engineer&fontSize=40&fontColor=ffffff" />
+</p>
 <!-- DevOps Banner -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gitlab,linux,prometheus,grafana&perline=8" />
